@@ -1,4 +1,4 @@
-public class Reverse {
+public class Reversenum {
     public static void main(String[] args) {
         int num = 23456;
 
