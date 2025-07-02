@@ -1,4 +1,5 @@
 // Java program to find the Largest and Smallest of three Integers using method
+package Questions;
 import java.util.*;
 
 public class Question1 {

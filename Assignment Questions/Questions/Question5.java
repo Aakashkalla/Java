@@ -1,4 +1,5 @@
 //Product of two numbers
+package Questions;
 import java.util.*;
 
 public class Question5 {

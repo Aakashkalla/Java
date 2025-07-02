@@ -1,5 +1,7 @@
 // Eligible to vote or not:
+package Questions;
 import java.util.*;
+
 
 public class Question3 {
     public static void main(String[] args) {

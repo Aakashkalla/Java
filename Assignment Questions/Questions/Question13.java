@@ -1,4 +1,5 @@
 // Sum of digits
+package Questions;
 import java.util.*;
 public class Question13 {
     public static void main(String[] args) {

@@ -1,4 +1,5 @@
 // Add Two numbers using method
+package Questions;
 import java.util.*;
 
 public class Question4 {

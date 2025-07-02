@@ -1,4 +1,5 @@
 //Prime Number or not:
+package Questions;
 import java.util.*;
 public class Question7 {
     public static void main(String[] args) {

@@ -1,4 +1,5 @@
 //Area of triangle, rectangle and square:
+package Questions;
 import java.util.*;
 public class Question10 {
     public static void main(String[] args) {

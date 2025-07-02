@@ -1,4 +1,5 @@
 // return the difference of product and sum of digits
+package Questions;
 import java.util.*;
 public class Question14 {
     public static void main(String[] args) {

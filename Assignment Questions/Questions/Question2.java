@@ -1,4 +1,5 @@
 //A given Number is Even or Odd.
+package Questions;
 import java.util.*;
 
 public class Question2 {

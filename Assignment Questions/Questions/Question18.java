@@ -1,4 +1,5 @@
 // Pythagorean Triplet:
+package Questions;
 import java.util.*;
 
 public class Question18 {

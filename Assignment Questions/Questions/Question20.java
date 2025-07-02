@@ -1,4 +1,5 @@
 // Prime number between 2 numbers:
+package Questions;
 import java.util.*;
 
 public class Question20 {

@@ -1,4 +1,5 @@
 //Input Marks and Output Grade
+package Questions;
 import java.util.*;
 
 public class Question8 {

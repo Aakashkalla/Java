@@ -1,5 +1,5 @@
 // Small numbers than number in array.
-
+package Questions;
 import java.util.Arrays;
 
 public class Question16 {
